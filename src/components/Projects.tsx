@@ -13,6 +13,8 @@ import realtimeChatImg from "@/assets/projects/realtime-chat.jpg";
 import taskManagerImg from "@/assets/projects/task-manager.jpg";
 import analyticsImg from "@/assets/projects/analytics.jpg";
 import weatherImg from "@/assets/projects/weather-app.jpg";
+import ckdImg from "@/assets/projects/CKD_HYP.jpg";
+import visitorImg from "@/assets/projects/visitor-pass.jpg";
 import expenseImg from "@/assets/projects/expense-tracker.jpg";
 
 const projects = [
@@ -21,7 +23,7 @@ const projects = [
     description:
         "A deep learning-based healthcare project that analyzes retinal images to identify early signs associated with hypertension and chronic kidney disease. The system aims to support early prediction by extracting relevant patterns from retinal images and providing disease-risk predictions through an automated image-based approach.",
     tech: ["Python", "Deep Learning", "Retinal Image Processing", "Medical Image Analysis", ],
-    image: secureChatImg,
+    image: ckdImg,
     liveUrl: "https://github.com/Sabarii27/CKD_Hypertension-prediction",
     githubUrl: "https://github.com/Sabarii27/CKD_Hypertension-prediction",
     featured: true,
@@ -31,7 +33,7 @@ const projects = [
     description:
       "A full-stack visitor management system designed to streamline visitor registration, scheduling, and access management. Features JWT-based authentication, role-based access control for Admin, Receptionist, and Employee, visit validation, activity tracking, and role-specific dashboards. Built with React.js, Node.js, Express.js, MongoDB, and deployed using Vercel and Render.",
     tech: ["React.js", "Node.js", "Express.js", "MongoDB", ],
-    image: secureChatImg,
+    image: visitorImg,
     liveUrl: " https://visitor-pass-system-yiew.vercel.app/",
     githubUrl: "https://github.com/Sabarii27/Visitor-Pass-System",
     featured: true,
