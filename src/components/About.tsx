@@ -7,9 +7,9 @@ const educationData = [
   {
     icon: GraduationCap,
     degree: "B.Tech, Computer Science and Engineering",
-    institution: "Manakula Vinyakar Institute Technology",
-    period: "2022 - 2026 (Pursuing)",
-    cgpa: "8.2 CGPA",
+    institution: "Manakula Vinayakar Institute Of Technology",
+    period: "2022 - 2026 ",
+    cgpa: "8.3 CGPA",
     color: "text-primary",
   },
   {
@@ -82,22 +82,14 @@ export const About = () => {
               <h3 className="text-2xl font-bold mb-6 gradient-text">Who I Am</h3>
               <div className="space-y-4">
                 <p className="text-muted-foreground leading-relaxed">
-                  I am a dedicated Full Stack Developer with a strong foundation in both 
-                  frontend and backend technologies. Currently pursuing my B.Tech in Computer 
-                  Science and Engineering, I specialize in building responsive, scalable web 
-                  applications using the MERN stack.
+                  I’m a Computer Science and Engineering graduate and Full Stack Developer with hands-on experience building and deploying modern web applications. I enjoy turning ideas into reliable, user-focused solutions using technologies such as React.js, Node.js, Express.js, MongoDB, PostgreSQL, and Firebase.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  My passion lies in creating seamless user experiences and implementing 
-                  robust server-side solutions. I have hands-on experience with React.js, 
-                  Node.js, Express.js, MongoDB, and Firebase, along with a solid understanding 
-                  of web security, database management, and cloud technologies.
+                  I’ve built and deployed projects ranging from a role-based Visitor Pass Management System with JWT authentication and RBAC to a Secure Real-Time Messaging Application using MQTT and RSA-2048 encryption. These projects have strengthened my understanding of application architecture, authentication, databases, APIs, security, and real-world deployment.
+                  I also gained professional experience as a Full Stack Development Intern, where I worked with React.js, Bootstrap 5, Firebase Authentication, Firestore, Git, CI/CD, and Agile/Scrum practices
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  Through multiple internships and projects, I've developed a keen eye for 
-                  detail and a commitment to writing clean, maintainable code. I'm always 
-                  eager to learn new technologies and take on challenging projects that push 
-                  my boundaries.
+                  I’m passionate about writing clean, maintainable code, solving real-world problems, and continuously improving my technical skills. As a recent B.Tech Computer Science and Engineering graduate from Manakula Vinayagar Institute of Technology, I’m looking for opportunities where I can contribute as a Full Stack Developer, learn from experienced teams, and build scalable applications that create real value.
                 </p>
               </div>
             </Card>
