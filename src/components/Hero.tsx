@@ -98,7 +98,7 @@ export const Hero = () => {
             className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12"
           >
             <Button size="lg" className="gradient-primary text-white" asChild>
-              <a href="/resume.pdf" download="Sabarinathan_Resume.pdf" target="_blank">
+              <a href="/resumee.pdf" download="Sabarinathan_Resume.pdf" target="_blank">
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
               </a>
