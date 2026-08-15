@@ -17,6 +17,26 @@ import expenseImg from "@/assets/projects/expense-tracker.jpg";
 
 const projects = [
   {
+    title: "Hypertension & Chronic Kidney Disease Prediction Using Deep Learning",
+    description:
+        "A deep learning-based healthcare project that analyzes retinal images to identify early signs associated with hypertension and chronic kidney disease. The system aims to support early prediction by extracting relevant patterns from retinal images and providing disease-risk predictions through an automated image-based approach.",
+    tech: ["Python", "Deep Learning", "Retinal Image Processing", "Medical Image Analysis", ],
+    image: secureChatImg,
+    liveUrl: "https://github.com/Sabarii27/CKD_Hypertension-prediction",
+    githubUrl: "https://github.com/Sabarii27/CKD_Hypertension-prediction",
+    featured: true,
+  },
+  {
+    title: "Visitor Pass Management System",
+    description:
+      "A full-stack visitor management system designed to streamline visitor registration, scheduling, and access management. Features JWT-based authentication, role-based access control for Admin, Receptionist, and Employee, visit validation, activity tracking, and role-specific dashboards. Built with React.js, Node.js, Express.js, MongoDB, and deployed using Vercel and Render.",
+    tech: ["React.js", "Node.js", "Express.js", "MongoDB", ],
+    image: secureChatImg,
+    liveUrl: " https://visitor-pass-system-yiew.vercel.app/",
+    githubUrl: "https://github.com/Sabarii27/Visitor-Pass-System",
+    featured: true,
+  },
+  {
     title: "Responsive E-Commerce Website for Organic Groceries",
     description:
       "A fully responsive e-commerce platform for organic groceries featuring user authentication, shopping cart functionality, and secure payment processing. Includes product catalog with filtering, wishlist management, and order tracking system.",
