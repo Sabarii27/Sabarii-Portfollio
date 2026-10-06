@@ -9,7 +9,7 @@ const educationData = [
     degree: "B.Tech, Computer Science and Engineering",
     institution: "Manakula Vinayagar Institute Of Technology",
     period: "2022 - 2026",
-    cgpa: "8.3 CGPA",
+    cgpa: "8.35 CGPA",
     color: "text-primary",
   },
   {
