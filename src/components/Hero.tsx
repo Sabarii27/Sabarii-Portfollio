@@ -116,7 +116,7 @@ export const Hero = () => {
               asChild
             >
               <a
-                href="/resume.pdf"
+                href="/resume.pdf?v=20261006"
                 download="Sabarinathan_Resume.pdf"
               >
                 <Download className="mr-2 h-5 w-5" />
